@@ -3,12 +3,11 @@ This repository was created to publish the pilot study work conducted during the
 ## Team Members and Contributions:
 
 
-High Resolution Calm Environment: Nourhane Sekkat
+High Realism Calm Environment: Nourhane Sekkat
 
-Low Poly Calm Environment: Aya Amine
+Low Realism Calm Environment: Aya Amine
 
-High Resolution Uneasy Environment: Noah Pietrafesa
+High Realism Uneasy Environment: Noah Pietrafesa
 
-Low Poly Uneasy Environment: Youssef Aouni
+Low Realism Uneasy Environment: Youssef Aouni
 
-Documentation: Nafiha Mohd Naushad
