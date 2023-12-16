@@ -1,4 +1,4 @@
-# VRresearch
+# CONCEPT:
 This repository was created to publish the pilot study work conducted during the class Virtual Reality Research and Applications class. The project was developed under the supervision of Dr. Banakou, at New York University Abu Dhabi. This study investigates how realism affects the human emotions in Virtual Reality.
 ## Team Members and Contributions:
 
