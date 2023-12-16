@@ -11,3 +11,6 @@ High Realism Uneasy Environment: Noah Pietrafesa
 
 Low Realism Uneasy Environment: Youssef Aouni
 
+## Link to drive folder containing project's folders:
+The full project's folders were uploaded to the following link due to their size.
+Link: https://drive.google.com/drive/folders/1haCEE8jnNCMSgRUaa0b7fzkHUWjW1W-P
