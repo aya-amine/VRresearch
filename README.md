@@ -20,8 +20,13 @@ Low Realism Uneasy Environment: Youssef Aouni
 The full project's folders were uploaded to the following link due to their size.
 Link: https://drive.google.com/drive/folders/1haCEE8jnNCMSgRUaa0b7fzkHUWjW1W-P
 
-## UPDATE:
-The project was successfuly presented at NYUAD IM Showcase and received a huge amount of positive insights from the attendees.
+## UPDATES:
+The project was successfuly presented at NYU ABU DHABI IM Showcase (December 2023) and received a huge amount of positive insights from the attendees.
 
 
 ![JPEG image-48B8-B776-F6-0](https://github.com/aya-amine/VRresearch/assets/126972019/f974fd32-f995-4370-b495-c1d2742a9bd7)
+
+The project was also presented in the Undergraduate Research Conference for Applied Computing (ZUURC) held by Zayed University in Dubai, United Arab Emirates (April 2024).
+It was awarded "Best Research Poster" among +200 participants. The abstract of the research was published as well.
+
+
